@@ -1,0 +1,13 @@
+{
+    "short_name": "QuickBite",
+    "name": "QuickBite Food Delivery",
+    "icons": [{
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiNGRjZCMzUiLz4KPHN2ZyB4PSI0OCIgeT0iNDgiIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+CjxwYXRoIGQ9Ik0xOC4wNiAyMi45OWgxLjZjLjU1IDAgMS0uNDUgMS0xdi00LjE0aDEuNmMuNTUgMCAxLS40NSAxLTF2LTEuM2MwLS41NS0uNDUtMS0xLTFoLTQuNmMtLjU1IDAtMSAuNDUtMSAxdjEuM2MwIC41NS40NSAxIDEgMWgxLjZ2NC4xNGMwIC41NS40NSAxIDEgMXptMi41LTExLjRjMC0yLjAxLTEuNjEtMy42My0zLjYzLTMuNjMtMi4wMSAwLTMuNjMgMS42Mi0zLjYzIDMuNjMgMCAyLjAyIDEuNjIgMy42NCAzLjYzIDMuNjQgMi4wMiAwIDMuNjMtMS42MiAzLjYzLTMuNjR6bS0xMi41IDBjMC0yLjAxLTEuNjItMy42My0zLjYzLTMuNjNTMiA5LjU4IDIgMTEuNnMxLjYyIDMuNjQgMy42MyAzLjY0IDMuNjItMS42MiAzLjYyLTMuNjR6bTYuMzgtMGMwLTMuNzUtMy4wNC02Ljc5LTYuNzktNi43OS0zLjc0IDAtNi43OCAzLjA0LTYuNzggNi43OSAwIDMuNzQgMy4wNCA2Ljc4IDYuNzggNi43OCAzLjc1IDAgNi43OS0zLjA0IDYuNzktNi43OHoiLz4KPC9zdmc+Cjwvc3ZnPgo=",
+        "sizes": "192x192",
+        "type": "image/svg+xml"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ff6b35",
+    "background_color": "#ffffff"
+}
